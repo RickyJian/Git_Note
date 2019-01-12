@@ -18,6 +18,8 @@
 
 設定使用者資料
 
+[連結](Chap2.Setting.md)
+
 ## Chap 3 Init
 
 初始化 git 目錄
