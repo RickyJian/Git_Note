@@ -75,6 +75,12 @@ $ git log --oneline --grep="<message>"
 // 搜尋 commit 檔案內容
 $ git log -S "<message>"
 
+// 檢視檔案紀錄
+$ git log <fileName>
+
+// 檢視檔案異動內容
+$ git log -p <fileName>
+
 ```
 
 ## 解除檔案版控
