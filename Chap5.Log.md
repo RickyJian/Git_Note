@@ -5,7 +5,7 @@
 // 檢視 log 以文字顯示
 $ git log
 
-// 檢視 log 以圖形方式顯示
+// 檢視 log 以路徑方式顯示
 $ git log --oneline --graph
 
 // 以 commit 作者來搜尋 commit 的紀錄
