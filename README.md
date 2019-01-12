@@ -56,3 +56,5 @@
 ### Chap99. gitignore
 
 `.gitignore`設定檔
+
+[連結](Chap99.gitignore.md)
