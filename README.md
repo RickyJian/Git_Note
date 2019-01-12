@@ -48,3 +48,11 @@
 還原 Commit 三中做法(Reset、Reverse、Rebase)
 
 [連結](Chap6.3R.md)
+
+-------
+
+## 其他
+
+### Chap99. gitignore
+
+`.gitignore`設定檔
