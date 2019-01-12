@@ -11,13 +11,13 @@
 
 ## 安裝 & 設定
 
-### Chap 1 Install
+### Chap 1. Install
 
 安裝 git
 
 [連結](Chap1.Install.md)
 
-### Chap 2 Setting
+### Chap 2. Setting
 
 設定使用者資料
 
@@ -31,14 +31,20 @@
 
 [連結](Chap3.Init.md)
 
-### Chap 4 Status
+### Chap 4. Status
 
 版本控管
 
 [連結](Chap4.Status.md)
 
-### Chap 5 Log
+### Chap 5. Log
 
 檢視紀錄
 
 [連結](Chap5.Log.md)
+
+### Chap 6. 3R
+
+還原 Commit 三中做法(Reset、Reverse、Rebase)
+
+[連結](Chap6.3R.md)
