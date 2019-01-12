@@ -83,6 +83,16 @@ $ git log -p <fileName>
 
 ```
 
+### blame
+
+檢視內容每行異動紀錄
+
+```
+
+$ git blame <fileName>
+
+```
+
 ## 解除檔案版控
 
 ```
