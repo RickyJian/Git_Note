@@ -36,6 +36,17 @@ $ git commit -m '<commit message>'
 
 Git 完成版控所放置的地方
 
+#### amend
+
+修改 commit message，但只能修改最後一個 commit
+
+```
+
+$ git commit --amend -m "<new message>"
+
+
+```
+
 ## 檢視版控狀態
 
 terminal 會顯示出現在檔案狀態(Working Directory、Staging Area、Repository)
