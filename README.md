@@ -2,7 +2,11 @@
 
 我的 Git 筆記
 
+> $ 開頭代表為指令
+
 [官網](https://git-scm.com/)
+
+[參考書籍](https://gitbook.tw/)
 
 ## Chap 1 Install
 
