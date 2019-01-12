@@ -67,3 +67,10 @@ $ git log -S "<message>"
 
 ```
 
+## 解除檔案版控
+
+```
+
+$ git rm <fileName> --cached
+
+``
