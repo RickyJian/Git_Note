@@ -2,17 +2,17 @@
 
 ## 使用者設定
 
-```Terminal
+```cmd
 
-git config --global user.name "rickyjian"
-git config --global user.email "XXX@gmail"
+$ git config --global user.name "rickyjian"
+$ git config --global user.email "XXX@gmail"
 
 ```
 
-## 檢視使用者資訊
+## 檢視 Git 設定
 
-```Terminal
+```cmd
 
-git config --list
+$ git config --list
 
 ```
