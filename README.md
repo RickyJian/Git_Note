@@ -31,7 +31,7 @@
 
 [連結](Chap3.Init.md)
 
-### Chap 4 Revision Control
+### Chap 4 Status
 
 版本控管
 
