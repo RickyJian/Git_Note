@@ -1,17 +1,10 @@
 # 版本控管
 
-版本控管流程
+## 流程
 
 ![Status](/images/Status.png)
 
-```
-
-// 檢查檔案版控狀態
-$ git status
-
-```
-
-## Working Directory(工作區)
+### Working Directory(工作區)
 
 未被 Git 版控的檔案
 
@@ -28,7 +21,7 @@ $ git add --all
 
 ```
 
-## Staging Area(暫存區)
+### Staging Area(暫存區)
 
 Git 版控的暫存檔案
 
@@ -39,6 +32,17 @@ $ git commit -m '<commit message>'
 
 ```
 
-## Repository(儲存區)
+### Repository(儲存區)
 
 Git 完成版控所放置的地方
+
+## 檢視版控狀態
+
+terminal 會顯示出現在檔案狀態(Working Directory、Staging Area、Repository)
+
+```
+
+$ git status
+
+```
+
