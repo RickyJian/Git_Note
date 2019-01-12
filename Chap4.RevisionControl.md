@@ -73,4 +73,14 @@ $ git log -S "<message>"
 
 $ git rm <fileName> --cached
 
-``
+```
+
+## 改名
+
+```
+
+$ git mv <oldFileName> <newFileName>
+
+```
+
+> git 當檔名一樣時不會區分大小寫
