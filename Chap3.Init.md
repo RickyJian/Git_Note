@@ -1,9 +1,9 @@
 # Init
 
-初始化 git 目錄
+初始化 Git 目錄
 
-```Terminal
+```
 
-git init
+$ git init
 
 ```

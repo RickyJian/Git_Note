@@ -22,7 +22,9 @@
 
 ## Chap 3 Init
 
-初始化 git 目錄
+初始化 Git 目錄，將檔案交給 Git 託管
+
+[連結](Chap3.Init.md)
 
 ## Chap 4 Manage
 
