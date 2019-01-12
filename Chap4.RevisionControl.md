@@ -38,12 +38,11 @@ Git 完成版控所放置的地方
 
 #### amend
 
-修改 commit message，但只能修改最後一個 commit
+修改 commit message，但只能修改最後一個 commit。建議不要在 push 出去後修改 commit 資訊。
 
 ```
 
 $ git commit --amend -m "<new message>"
-
 
 ```
 
