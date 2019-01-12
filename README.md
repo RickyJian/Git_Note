@@ -23,7 +23,7 @@
 
 [連結](Chap2.Setting.md)
 
-## 版本控管流程
+## 流程
 
 ### Chap 3 Init
 
@@ -48,6 +48,14 @@
 還原 Commit 三中做法(Reset、Reverse、Rebase)
 
 [連結](Chap6.3R.md)
+
+## 分支處理
+
+### Chap7. Branch
+
+分支
+
+[連結](Chap7.Branch.md)
 
 -------
 
