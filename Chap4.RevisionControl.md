@@ -41,4 +41,4 @@ $ git commit -m '<commit message>'
 
 ## Repository(儲存區)
 
-Git 完成託管所放置的地方
+Git 完成版控所放置的地方
