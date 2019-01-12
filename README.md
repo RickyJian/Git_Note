@@ -35,4 +35,10 @@
 
 版本控管
 
-[連結](Chap4.RevisionControl.md)
+[連結](Chap4.Status.md)
+
+### Chap 5 Log
+
+檢視紀錄
+
+[連結](Chap5.Log.md)
