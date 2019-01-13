@@ -1,6 +1,6 @@
 # GitFlow
 
-Git 常用習慣
+Git 分支習慣
 
 [原文網址](https://nvie.com/posts/a-successful-git-branching-model/)
 
