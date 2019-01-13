@@ -93,6 +93,12 @@
 
 ### Chap97. Stash
 
-檢視 git 的操作紀錄
+git 暫存區
 
 [連結](Chap97.Stash.md)
+
+### Chap96. GitFlow
+
+Git 分支使用習慣
+
+[連結](Chap96.GitFlow.md)
