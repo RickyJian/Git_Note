@@ -1,4 +1,4 @@
-# 還原 Commit
+# 回復
 
 ## Reset
 

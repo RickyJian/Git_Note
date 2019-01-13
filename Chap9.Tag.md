@@ -2,7 +2,7 @@
 
 用來標示軟體開發的里程碑
 
-## 輕量標籤(lightweight tag)
+## lightweight tag
 
 紀錄少量資料
 
@@ -16,7 +16,7 @@ $ git tag <tag name> <commit versionId>
 
 ```
 
-## 附註標籤(annotated tag)
+## annotated tag
 
 能紀錄較多資料
 

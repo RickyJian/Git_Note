@@ -62,7 +62,7 @@ $ git rm <fileName> --cached
 
 ```
 
-## 改名
+## 重新命名
 
 ```
 
