@@ -43,9 +43,9 @@
 
 [連結](Chap5.Log.md)
 
-### Chap 6. 3R
+### Chap 6. ResetAndReverse
 
-還原 Commit 三中做法(Reset、Reverse、Rebase)
+還原 Commit 三中做法(Reset、Reverse)
 
 [連結](Chap6.3R.md)
 
@@ -57,6 +57,12 @@
 
 [連結](Chap7.Branch.md)
 
+### Chap8. Merge
+
+分支
+
+[連結](Chap8.Merge.md)
+
 -------
 
 ## 其他
@@ -66,3 +72,9 @@
 `.gitignore`設定檔
 
 [連結](Chap99.gitignore.md)
+
+### Chap98. Reflog
+
+檢視 git 的操作紀錄
+
+[連結](Chap98.Reflog.md)
