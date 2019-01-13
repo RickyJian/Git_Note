@@ -2,7 +2,7 @@
 
 ## Reset
 
-把目前狀態設定誠某個 commit
+把目前狀態設定成某個 commit
 
 ### mixed
 
@@ -43,5 +43,18 @@ $ git reset --hard
 
 // 退回到指定的版號
 $ git reset --hard <versionId>
+
+```
+
+## Revert
+
+新增新的 commit 來取消不要的 commit。若在多人協作中想拆掉 commit 可使用這種方法。
+
+```
+
+$ git revert HEAD <commit message>
+
+// revert 不做編輯
+$ git revert HEAD --no-edit
 
 ```
