@@ -59,9 +59,15 @@
 
 ### Chap8. Merge
 
-分支
+合併分支
 
 [連結](Chap8.Merge.md)
+
+## 標籤
+
+### Chap9. Tag
+
+[連結](Chap9.Tag.md)
 
 -------
 
