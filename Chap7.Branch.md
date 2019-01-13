@@ -8,6 +8,14 @@ $ git branch <branchName>
 
 ```
 
+### 指定版號開啟分支
+
+```
+
+$ git branch <branchName> <versionId>
+
+```
+
 ## 檢視
 
 ```
