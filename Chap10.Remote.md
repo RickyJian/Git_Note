@@ -50,3 +50,13 @@ $ git fetch <remote name>
 $ git pull <remote name>
 
 ```
+
+## Clone()
+
+將專案由遠端複製到本地端，目的是在初始本地端專案
+
+```
+
+$ git clone <remote url or ssh>
+
+```
