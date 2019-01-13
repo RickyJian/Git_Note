@@ -4,10 +4,20 @@ git 分為本地端及遠端
 
 ## 新增
 
+本地可以有多個遠端
+
 ```
 
 // 預設遠端名稱通常使用 origin 
 $ git remote add <remote name> <url>
+
+```
+
+## 檢視
+
+```
+
+$ git remote -v
 
 ```
 
@@ -17,7 +27,7 @@ $ git remote add <remote name> <url>
 
 ```
 
-$ git push -u <upstream name> <branch name>
+$ git push -u <remote name> <branch name>
 
 ```
 
@@ -27,7 +37,7 @@ $ git push -u <upstream name> <branch name>
 
 ```
 
-$ git fetch
+$ git fetch <remote name>
 
 ```
 
@@ -37,6 +47,6 @@ $ git fetch
 
 ```
 
-$ git pull
+$ git pull <remote name>
 
 ```
